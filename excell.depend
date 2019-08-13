@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1560387412 source:e:\oop pract\excell project\excell\cell.cpp
+	"cell.h"
+
+1558300209 e:\oop pract\excell project\excell\cell.h
+	<iostream>
+	<cstring>
+
+1560394907 source:e:\oop pract\excell project\excell\main.cpp
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+	"commands.h"
+
+1559934670 e:\oop pract\excell project\excell\intcell.h
+	<cmath>
+	"cell.h"
+	"CheckTypes.h"
+
+1557963116 e:\oop pract\excell project\excell\cell.cpp
+	"cell.h"
+
+1560375005 source:e:\oop pract\excell project\excell\intcell.cpp
+	"intCell.h"
+
+1559934670 e:\oop pract\excell project\excell\doublecell.h
+	<cmath>
+	"cell.h"
+	"CheckTypes.h"
+
+1559936054 source:e:\oop pract\excell project\excell\doublecell.cpp
+	"doubleCell.h"
+
+1559936013 source:e:\oop pract\excell project\excell\stringcell.cpp
+	"stringCell.h"
+
+1559934670 e:\oop pract\excell project\excell\stringcell.h
+	"cell.h"
+	"CheckTypes.h"
+	"intCell.h"
+	"doubleCell.h"
+
+1560363112 e:\oop pract\excell project\excell\checktypes.h
+
+1560394865 source:e:\oop pract\excell project\excell\table.cpp
+	"Table.h"
+	<cstring>
+
+1560374916 e:\oop pract\excell project\excell\table.h
+	"Cell.h"
+	"intCell.h"
+	"doubleCell.h"
+	"stringCell.h"
+	"CheckTypes.h"
+	"FormulaCell.h"
+	<vector>
+
+1560375939 source:e:\oop pract\excell project\excell\formulacell.cpp
+	"FormulaCell.h"
+
+1560374597 e:\oop pract\excell project\excell\formulacell.h
+	"cell.h"
+	"CheckTypes.h"
+	"doubleCell.h"
+	"IntCell.h"
+	"Table.h"
+	<cmath>
+
+1560391633 source:e:\oop pract\excell project\excell\checktypes.cpp
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+
+1560395316 source:e:\oop pract\excell project\excell\commands.cpp
+	"commands.h"
+
+1560391896 e:\oop pract\excell project\excell\commands.h
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+
+1560387412 source:d:\new folder (2)\excell\cell.cpp
+	"cell.h"
+
+1558300209 d:\new folder (2)\excell\cell.h
+	<iostream>
+	<cstring>
+
+1560391633 source:d:\new folder (2)\excell\checktypes.cpp
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+
+1559934670 d:\new folder (2)\excell\intcell.h
+	<cmath>
+	"cell.h"
+	"CheckTypes.h"
+
+1560363112 d:\new folder (2)\excell\checktypes.h
+
+1559934670 d:\new folder (2)\excell\stringcell.h
+	"cell.h"
+	"CheckTypes.h"
+	"intCell.h"
+	"doubleCell.h"
+
+1559934670 d:\new folder (2)\excell\doublecell.h
+	<cmath>
+	"cell.h"
+	"CheckTypes.h"
+
+1560374597 d:\new folder (2)\excell\formulacell.h
+	"cell.h"
+	"CheckTypes.h"
+	"doubleCell.h"
+	"IntCell.h"
+	"Table.h"
+	<cmath>
+
+1560374916 d:\new folder (2)\excell\table.h
+	"Cell.h"
+	"intCell.h"
+	"doubleCell.h"
+	"stringCell.h"
+	"CheckTypes.h"
+	"FormulaCell.h"
+	<vector>
+
+1559936054 source:d:\new folder (2)\excell\doublecell.cpp
+	"doubleCell.h"
+
+1560375939 source:d:\new folder (2)\excell\formulacell.cpp
+	"FormulaCell.h"
+
+1560375005 source:d:\new folder (2)\excell\intcell.cpp
+	"intCell.h"
+
+1560394907 source:d:\new folder (2)\excell\main.cpp
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+	"commands.h"
+
+1560391896 d:\new folder (2)\excell\commands.h
+	"cell.h"
+	"intCell.h"
+	"CheckTypes.h"
+	"stringCell.h"
+	"doubleCell.h"
+	"FormulaCell.h"
+	<vector>
+	<string>
+	"Table.h"
+	<cstdlib>
+	<fstream>
+
+1559936013 source:d:\new folder (2)\excell\stringcell.cpp
+	"stringCell.h"
+
+1560394865 source:d:\new folder (2)\excell\table.cpp
+	"Table.h"
+	<cstring>
+
+1560395548 source:d:\new folder (2)\excell\commands.cpp
+	"commands.h"
+
